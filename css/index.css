@@ -87,7 +87,10 @@ textarea {
         max-width: 90%; /* Ajuste para telas menores que 600px */
         max-height:100% ;
       }
+      body {
+        overflow-x: hidden;
   }
+}
 
 */
   h1 {
@@ -253,3 +256,4 @@ textarea {
             height: 30px;
           }
     }
+    
